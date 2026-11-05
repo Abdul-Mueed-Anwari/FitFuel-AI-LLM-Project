@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#1b5c3a"
+backgroundColor = "#f3efe6"
+secondaryBackgroundColor = "#fffdf8"
+textColor = "#172117"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+folderWatchBlacklist = ["data", ".venv"]
